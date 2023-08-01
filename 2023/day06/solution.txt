@@ -1,1 +1,2 @@
 Link: https://yashswinithakur01.hashnode.dev/file-permission-in-linux
+https://yashswinithakur01.hashnode.dev/acl-permissions-in-linux
